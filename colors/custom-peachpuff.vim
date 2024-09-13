@@ -95,47 +95,47 @@ hi DiffText         ctermfg=16         ctermbg=251  cterm=NONE
 hi DiffDelete       ctermfg=231        ctermbg=133  cterm=NONE
 
 " Background: light
-" Color:      comment        -------        25             darkgrey
-" Color:      constant       -------        161            darkred
-" Color:      identifier     -------        30             darkcyan
-" Color:      statement      -------        124            darkred
-" Color:      preproc        -------        164            darkmagenta
-" Color:      type           -------        29             darkgreen
-" Color:      special        -------        62             darkblue
-" Color:      fg0            -------        16             black
-" Color:      bg0            -------        223            white
-" Color:      fg1            -------        231            white
-" Color:      bg1            -------        243            darkgrey
-" Color:      visual         -------        252            grey
-" Color:      folded         -------        252            cyan
-" Color:      folded_fg      -------        16             black
-" Color:      cursorline     -------        180            yellow
-" Color:      pmenu          -------        216            grey
-" Color:      wildmenu       -------        226            yellow
-" Color:      error          -------        196            darkred
-" Color:      linenr         -------        160            red
-" Color:      blue           -------        21             darkblue
-" Color:      red            -------        196            darkred
-" Color:      colorcolumn    -------        255            grey
-" Color:      black          -------        16             black
-" Color:      darkred        -------        88             darkred
-" Color:      darkgreen      -------        28             darkgreen
-" Color:      darkyellow     -------        100            darkyellow
-" Color:      darkblue       -------        18             darkblue
-" Color:      darkmagenta    -------        18             darkmagenta
-" Color:      darkcyan       -------        30             darkcyan
-" Color:      gray           -------        102            gray
+" Color:      comment       -------    25        darkgrey
+" Color:      constant      -------    161       darkred
+" Color:      identifier    -------    30        darkcyan
+" Color:      statement     -------    124       darkred
+" Color:      preproc       -------    164       darkmagenta
+" Color:      type          -------    29        darkgreen
+" Color:      special       -------    62        darkblue
+" Color:      fg0           -------    16        black
+" Color:      bg0           -------    223       white
+" Color:      fg1           -------    231       white
+" Color:      bg1           -------    243       darkgrey
+" Color:      visual        -------    252       grey
+" Color:      folded        -------    252       cyan
+" Color:      folded_fg     -------    16        black
+" Color:      cursorline    -------    180       yellow
+" Color:      pmenu         -------    216       grey
+" Color:      wildmenu      -------    226       yellow
+" Color:      error         -------    196       darkred
+" Color:      linenr        -------    160       red
+" Color:      blue          -------    21        darkblue
+" Color:      red           -------    196       darkred
+" Color:      colorcolumn   -------    255       grey
+" Color:      black         -------    16        black
+" Color:      darkred       -------    88        darkred
+" Color:      darkgreen     -------    28        darkgreen
+" Color:      darkyellow    -------    100       darkyellow
+" Color:      darkblue      -------    18        darkblue
+" Color:      darkmagenta   -------    18        darkmagenta
+" Color:      darkcyan      -------    30        darkcyan
+" Color:      gray          -------    102       gray
 "
 " Term colors: bg0     statement constant preproc identifier type special bg1
 " Term colors: comment statement constant preproc identifier type special fg0
 "
-" Color:      bgDiffA        -------        65             darkgreen
-" Color:      bgDiffC        -------        67             blue
-" Color:      bgDiffD        -------        133            magenta
-" Color:      bgDiffT        -------        251            grey
-" Color:      fgDiffW        -------        231            white
-" Color:      fgDiffB        -------        16             black
-" Color:      bgDiffC8       -------        67             darkblue
-" Color:      bgDiffD8       -------        133            darkmagenta
+" Color:      bgDiffA       -------    65        darkgreen
+" Color:      bgDiffC       -------    67        blue
+" Color:      bgDiffD       -------    133       magenta
+" Color:      bgDiffT       -------    251       grey
+" Color:      fgDiffW       -------    231       white
+" Color:      fgDiffB       -------    16        black
+" Color:      bgDiffC8      -------    67        darkblue
+" Color:      bgDiffD8      -------    133       darkmagenta
 "
 " vim: et ts=8 sw=2 sts=2
